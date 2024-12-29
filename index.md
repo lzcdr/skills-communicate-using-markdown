@@ -11,3 +11,7 @@ ferr := func(err error) error {
   return fmt.Errorf("SaveIndexStatsTimepoints failed: %w", err)
 }
 ```
+
+- [ ] Save yourself
+- [ ] Don't leave the house
+- [ ] Happy future is the thing from the past
